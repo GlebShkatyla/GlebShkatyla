@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GlebShkatyla
+- 👀 I’m interested in creating projects in c++ and python
+- 🌱 I’m currently learning с++
+- 📫 How to reach me - GlebShkatyla2006@gmail.com
